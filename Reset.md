@@ -28,6 +28,8 @@ Para carregar as diretrizes de auditoria e os checklists detalhados, acesse o li
 
 👉 **[CLIQUE AQUI PARA ABRIR O AGENTE ROSINHOLI](https://github.com/Rosinholi660/agentes-ia/blob/09e47b50c9ae9161603dd0c1ae5b1b0123910e32/especialistas/rosinholi.md)**
 
+https://github.com/Rosinholi660/agentes-ia/blob/09e47b50c9ae9161603dd0c1ae5b1b0123910e32/especialistas/rosinholi.md
+
 **COMANDO DE ATIVAÇÃO:**
 Após abrir o link e copiar o conteúdo, cole no chat dizendo: 
 *"Agente Rosinholi, assuma o controle. Aqui estão as diretrizes. O Gerente [NOME] já validou os dados."*
